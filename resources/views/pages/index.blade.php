@@ -10,10 +10,12 @@
                 <div class="col-lg-6">
                     <div class="text-container">
                         <h1 class="h1-large" style="color:white;">BayBlade Galleria Exclusive HighEnd NFT Club</h1>
-                        <p class="p-large" style="color:white;">BayBlade is a high-end collection of the most rarest Blades, each with a unique design and power level. Each Blade is specifically crafted and minted with unique abilities. There will only be 100 BayBlades minted on the block chain, we are an exclusive community and every blade is valuable.
-</p>
+                        <p class="p-large" style="color:white;">BayBlade is a high-end collection of the most rarest Blades, each with a unique design and power level. Each Blade is specifically crafted and minted with unique abilities. There will only be 100 BayBlades minted on the block chain, we are an exclusive community and every blade is valuable.</p>
                         <a class="btn-solid-lg" href="#your-link"><i class="fab fa-apple"></i>NFT Shop</a>
                         <a class="btn-solid-lg secondary" style="color:white;" href="#your-link"><i class="fab fa-google-play"></i>Download</a>
+                        <br>
+                        <a href="https://t.me/joinchat/uPVuU0aEFUpjMjNh" target="_blank"><img  class="telegramimage"  src="images/telegram.png" height="50px" width="50px"  alt=""></a>
+                        <a href="https://twitter.com/captainelement_" target="_blank"><img  class="twitterimage"  src="images/twitter.png" height="50px" width="50px"  alt=""></a>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
                 <div class="col-lg-6">
@@ -61,7 +63,7 @@
                     <!-- Card -->
                     <div class="card">
                         <div class="card-image">
-                            <img class="img-fluid" src="images/features-icon-2.svg" alt="alternative">
+                            <img class="img-fluid" src="type.png" alt="alternative">
                         </div>
                         <div class="card-body">
                             <h5 class="card-title" style="color:white;">Type</h5>
@@ -73,7 +75,7 @@
                     <!-- Card -->
                     <div class="card">
                         <div class="card-image">
-                            <img class="img-fluid" src="images/features-icon-3.svg" alt="alternative">
+                            <img class="img-fluid" src="statone.png" alt="alternative">
                         </div>
                         <div class="card-body">
                             <h5 class="card-title" style="color:white;">Stats</h5>
@@ -151,6 +153,104 @@
     <!-- end of details 2 -->
 
 
+    
+    <!-- Pricing -->
+    <div id="pricing" class="cards-2" style="background-color:black;">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2 class="h2-heading">RoadMap</h2>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <!-- Card-->
+                    <div class="card" style="background-color:black;">
+                        <div class="card-body">
+                            <div class="card-title">Phase 1</div>
+                            <ul class="list-unstyled li-space-lg">
+                           
+                                <li class="media">
+                                    <i class="fas fa-chevron-right"></i><div class="media-body" style="color:white;">Release 1st Edition BayBlade NFT's </div>
+                                </li>
+                                <li class="media">
+                                    <i class="fas fa-chevron-right"></i><div class="media-body" style="color:white;">1000 Holders</div>
+                                </li>
+                                <li class="media">
+                                    <i class="fas fa-chevron-right"></i><div class="media-body" style="color:white;">2,000 Telegram Members</div>
+                                </li>
+                                <li class="media">
+                                    <i class="fas fa-chevron-right"></i><div class="media-body" style="color:white;">1 Million MarketCap</div>
+                                </li>
+
+                                <li class="media">
+                                    <i class="fas fa-chevron-right"></i><div class="media-body" style="color:white;">Marketing Campaign</div>
+                                </li>
+                            </ul>
+                         
+                        </div>
+                    </div> <!-- end of card -->
+                    <!-- end of card -->
+
+                    <!-- Card-->
+                    <div class="card" style="background:black;">
+                        <div class="card-body">
+                            <div class="card-title">Phase 2</div>
+                            <ul class="list-unstyled li-space-lg">
+                                <li class="media">
+                                <i class="fas fa-chevron-right"></i><div class="media-body" style="color:white;">Release 2nd Edition BayBlade NFT's</div>
+                                </li>
+                                <li class="media">
+                                    <i class="fas fa-chevron-right"></i><div class="media-body" style="color:white;">5,000 Holders</div>
+                                </li>
+                                <li class="media">
+                                <i class="fas fa-chevron-right"></i><div class="media-body" style="color:white;">10,000 Telegram Members</div>
+                                </li>
+                                <li class="media">
+                                <i class="fas fa-chevron-right"></i><div class="media-body" style="color:white;">5 Million MarketCap</div>
+                                </li>
+
+                                <li class="media">
+                                <i class="fas fa-chevron-right"></i><div class="media-body" style="color:white;">Coingecko and CoinMarketcap</div>
+                                </li>
+                            </ul>
+                           
+                        </div>
+                    </div> <!-- end of card -->
+                    <!-- end of card -->
+
+                    <!-- Card-->
+                    <div class="card" style="background:black;">
+                        <div class="card-body">
+                            <div class="card-title">Phase 3</div>
+                            <ul class="list-unstyled li-space-lg">
+                                <li class="media">
+                                <i class="fas fa-chevron-right"></i><div class="media-body" style="color:white;">Release 3rd Edition BayBlade NFT's</div>
+                                </li>
+                                <li class="media">
+                                <i class="fas fa-chevron-right"></i><div class="media-body" style="color:white;">10,000 Holders</div>
+                                </li>
+                                <li class="media">
+                                <i class="fas fa-chevron-right"></i><div class="media-body" style="color:white;">15,000 Telegram Members</div>
+                                </li>
+                                <li class="media">
+                                <i class="fas fa-chevron-right"></i><div class="media-body" style="color:white;"> 8 Million MarketCap</div>
+                                </li>
+                                <li class="media">
+                                <i class="fas fa-chevron-right"></i><div class="media-body" style="color:white;"> Cex and Dex </div>
+                                </li>
+                            </ul>
+                           
+                        </div>
+                    </div> <!-- end of card -->
+                    <!-- end of card -->
+
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of cards-2 -->
+    <!-- end of pricing -->
 
 
 
