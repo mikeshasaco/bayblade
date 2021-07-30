@@ -15,7 +15,7 @@
                         <a class="btn-solid-lg secondary" style="color:white;" href="#your-link"><i class="fab fa-google-play"></i>Download</a>
                         <br>
                         <a href="https://t.me/joinchat/uPVuU0aEFUpjMjNh" target="_blank"><img  class="telegramimage"  src="images/telegram.png" height="50px" width="50px"  alt=""></a>
-                        <a href="https://twitter.com/captainelement_" target="_blank"><img  class="twitterimage"  src="images/twitter.png" height="50px" width="50px"  alt=""></a>
+                        <a href="https://twitter.com/baybladetoken" target="_blank"><img  class="twitterimage"  src="images/twitter.png" height="50px" width="50px"  alt=""></a>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
                 <div class="col-lg-6">
@@ -128,23 +128,23 @@
                 </div> <!-- end of col -->
                 <div class="col-lg-5">
                     <div class="text-container">
-                        <h2 style="color:white">NFT RoadMap</h2>
+                        <h2 style="color:white">Tokenomics</h2>
                         <ul class="list-unstyled li-space-lg">
                             <li class="media">
                                 <i class="fas fa-chevron-right"></i>
-                                <div class="media-body" style="color:white">Currently Releasing First Edition BayBlade 50 Will Be Minted</div>
+                                <div class="media-body" style="color:white">1,000,000,000,000,000 Total Supply</div>
                             </li>
                             <li class="media">
                                 <i class="fas fa-chevron-right"></i>
-                                <div class="media-body" style="color:white">Once The First Edition Set is Complete, We Will Start On The Second Edition!</div>
+                                <div class="media-body" style="color:white">2% Redistribution Ethereum To Community Holders</div>
                             </li>
                             <li class="media">
                                 <i class="fas fa-chevron-right"></i>
-                                <div class="media-body" style="color:white">Our Goal Is To Bring Value To These NFT's We Are Focused On Growing A Large Community Where We Can Bring Excitement And Rarity To NFT's.</div>
+                                <div class="media-body" style="color:white">Dev Team: 10% of Total Supply </div>
                             </li>
                         </ul>
-                        <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox">Buy NFT</a>
-                        <a class="btn-outline-reg" href="article.html">Twitter</a>
+                        <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox">5% To Liqudity pool</a>
+                        <a class="btn-outline-reg" href="https://twitter.com/baybladetoken">Twitter</a>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
