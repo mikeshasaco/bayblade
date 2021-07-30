@@ -2,6 +2,33 @@
 @section('content')
 
 
+<style>
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #000000;
+  padding: 8px;
+    background-color: #000000;
+    color:white;
+
+}
+
+#customers tr:nth-child(even){background-color: #000000;}
+
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #000000;
+  color: white;
+}
+</style>
+
 
     <!-- Header -->
     <header id="header" class="header" style="background-color:black;">
@@ -11,10 +38,9 @@
                     <div class="text-container">
                         <h1 class="h1-large" style="color:white;">BayBlade Galleria Exclusive HighEnd NFT Club</h1>
                         <p class="p-large" style="color:white;">BayBlade is a high-end collection of the most rarest Blades, each with a unique design and power level. Each Blade is specifically crafted and minted with unique abilities. There will only be 100 BayBlades minted on the block chain, we are an exclusive community and every blade is valuable.</p>
-                        <a class="btn-solid-lg" href="#your-link"><i class="fab fa-apple"></i>NFT Shop</a>
-                        <a class="btn-solid-lg secondary" style="color:white;" href="#your-link"><i class="fab fa-google-play"></i>Download</a>
+                        <a class="btn-solid-lg" href="#your-link">NFT Shop</a>
+                        <a class="btn-solid-lg secondary" style="color:white;" href="#your-link">Telegram</a>
                         <br>
-                        <a href="https://t.me/joinchat/uPVuU0aEFUpjMjNh" target="_blank"><img  class="telegramimage"  src="images/telegram.png" height="50px" width="50px"  alt=""></a>
                         <a href="https://twitter.com/baybladetoken" target="_blank"><img  class="twitterimage"  src="images/twitter.png" height="50px" width="50px"  alt=""></a>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
@@ -142,9 +168,12 @@
                                 <i class="fas fa-chevron-right"></i>
                                 <div class="media-body" style="color:white">Dev Team: 10% of Total Supply </div>
                             </li>
+                            <li class="media">
+                                <i class="fas fa-chevron-right"></i>
+                                <div class="media-body" style="color:white">5% To Liqudity pool </div>
+                            </li>
                         </ul>
-                        <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox">5% To Liqudity pool</a>
-                        <a class="btn-outline-reg" href="https://twitter.com/baybladetoken">Twitter</a>
+  
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -252,6 +281,21 @@
     </div> <!-- end of cards-2 -->
     <!-- end of pricing -->
 
+
+
+<!-- <table id="customers">
+  <tr>
+    <th>BayBlade</th>
+    <th></th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>  <img class="img-fluid" src="images/cyberusyellow.gif" height="200px" width="200px" alt="alternative"></td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+ 
+</table> -->
 
 
 
