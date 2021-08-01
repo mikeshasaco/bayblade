@@ -162,7 +162,7 @@
                             </li>
                             <li class="media">
                                 <i class="fas fa-chevron-right"></i>
-                                <div class="media-body" style="color:white">2% Redistribution Ethereum To Community Holders</div>
+                                <div class="media-body" style="color:white">4% Redistribution Ethereum To Community Holders. <br>  Ethereum will be distrbuted every 60 min to holders</div>
                             </li>
                             <li class="media">
                                 <i class="fas fa-chevron-right"></i>
@@ -170,7 +170,7 @@
                             </li>
                             <li class="media">
                                 <i class="fas fa-chevron-right"></i>
-                                <div class="media-body" style="color:white">5% To Liqudity pool </div>
+                                <div class="media-body" style="color:white">10% To Liqudity pool </div>
                             </li>
                         </ul>
   
