@@ -166,7 +166,7 @@
                             </li>
                             <li class="media">
                                 <i class="fas fa-chevron-right"></i>
-                                <div class="media-body" style="color:white">Dev Team: 10% of Total Supply </div>
+                                <div class="media-body" style="color:white">Dev Team: 8% </div>
                             </li>
                             <li class="media">
                                 <i class="fas fa-chevron-right"></i>
