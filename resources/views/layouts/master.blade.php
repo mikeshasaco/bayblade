@@ -73,9 +73,9 @@
                     <div class="social-container">
           
                         <span class="fa-stack">
-                            <a href="#your-link">
+                        <a href="https://twitter.com/baybladetoken" target="_blank">
                                 <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-twitter fa-stack-1x"></i>
+                                <i class="fab fa-twitter fa-stack-1x"> </i>
                             </a>
                         </span>
                         

@@ -38,8 +38,8 @@
                     <div class="text-container">
                         <h1 class="h1-large" style="color:white;">BayBlade Galleria Exclusive HighEnd NFT Club</h1>
                         <p class="p-large" style="color:white;">BayBlade is a high-end collection of the most rarest Blades, each with a unique design and power level. Each Blade is specifically crafted and minted with unique abilities. There will only be 100 BayBlades minted on the block chain, we are an exclusive community and every blade is valuable.</p>
-                        <a class="btn-solid-lg" href="#your-link">NFT Shop</a>
-                        <a class="btn-solid-lg secondary" style="color:white;" href="#your-link">Telegram</a>
+                        <a class="btn-solid-lg" href="https://opensea.io/collection/bayblade">NFT Shop</a>
+                        <a class="btn-solid-lg secondary" style="color:white;" href="https://t.me/joinchat/Wg4SFmpc0dwyZDFh">Telegram</a>
                         <br>
                         <a href="https://twitter.com/baybladetoken" target="_blank"><img  class="twitterimage"  src="images/twitter.png" height="50px" width="50px"  alt=""></a>
                     </div> <!-- end of text-container -->
