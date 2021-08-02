@@ -172,6 +172,11 @@
                                 <i class="fas fa-chevron-right"></i>
                                 <div class="media-body" style="color:white">10% To Liqudity pool </div>
                             </li>
+
+                            <li>
+                            <div class="media-body" style="color:white">50% of the total supply will be burned before launch </div>
+
+                            </li>
                         </ul>
   
                     </div> <!-- end of text-container -->
